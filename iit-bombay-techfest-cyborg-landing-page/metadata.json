@@ -1,8 +1,0 @@
-{
-  "name": "IIT Bombay Techfest Cyberpunk Landing Page",
-  "description": "A premium futuristic landing page for IIT Bombay Techfest with an immersive Cyberpunk/Cyborg aesthetic, dynamic 3D SVG head, custom particle animations, timeline, stats counters, and interactive HUD interfaces.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
